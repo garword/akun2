@@ -3,8 +3,8 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "gesaleiloiga-5825.workers.dev"; // Ganti dengan domain utama kalian
-const serviceName = "nautica"; // Ganti dengan nama workers kalian
+const rootDomain = "xiffinnikommoi-9620.workers.dev"; // Ganti dengan domain utama kalian
+const serviceName = "akun3"; // Ganti dengan nama workers kalian
 const apiKey = "67scqOd_-52fuvDaUMKwS2YYbsD_rLwHj4ENu0-g"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = ""; // Ganti dengan email yang kalian gunakan
 const accountID = "7cfe862e49deeb3274bf1982d8edf821"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
